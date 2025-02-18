@@ -1,0 +1,5 @@
+N_ITERS_FILE = "n_iters.pt"
+TIME_FILE = "exec_time.pt"
+CONVERGENCE_FILE = "convergence.pt"
+PINN_FILE = "pinn.pt"
+POINT_DATA_FILE = "point_data.pt"
